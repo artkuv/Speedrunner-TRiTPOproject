@@ -1,2 +1,2 @@
 # Speedrunner
-## [Требования к проекту](REQUIREMENTS.pdf)
+## [Требования к проекту](Requirements.pdf)
