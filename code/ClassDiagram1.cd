@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Button" BaseTypeListCollapsed="true">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Button.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Character">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gARgAEAAAiAAIAgQAAACEICAABAAAQAIAIQAAAAEAGA=</HashCode>
+      <FileName>Assets\Scripts\Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CloudsDestroy">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\CloudsDestroy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExplosionDestroy">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ExplosionDestroy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FallDown">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAAAAAAAAAAAAAAAABAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\FallDown.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Loose">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAACAAAAAAAAAIAAABAEgAAAAAAACgSAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Loose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainManu">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBEAAAACAAAAAAAAAAACAASAAgABAQIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MainManu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoveClouds">
+    <Position X="8" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MoveClouds.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoveEnemy">
+    <Position X="9.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAQAAAQCAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MoveEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovePlatfY">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAgAAAQAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MovePlatfY.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoveSaw">
+    <Position X="1" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAQAAAQCAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MoveSaw.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoveY">
+    <Position X="1" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAgAAAQAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MoveY.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="newcam">
+    <Position X="8" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\newcam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlatformScript">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAQAAAAAAAAAQAAAQCAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlatformScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sawScript">
+    <Position X="4.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\sawScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sound">
+    <Position X="6.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIACBAAAAAAAgAACgAAAgAgAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Sound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpawnBomb">
+    <Position X="4.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SpawnBomb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpwanClouds">
+    <Position X="11.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAEAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SpwanClouds.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
